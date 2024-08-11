@@ -133,6 +133,6 @@ Twitter: [@DannyXample](https://x.com/dannyxample)
 
 📢 **Follow Us**  
 Join our Discord for the latest updates and announcements 
-[X-Ample Development](https://discord.gg/xampledevelopment)
+[X-Ample Development](https://discord.gg/xampledev)
 
 </div>
