@@ -2,7 +2,7 @@
 
 # **X-Ample Development**
 
-Welcome to X-Ample Development, a leading UK-based organization specializing in Discord development. We create innovative Discord bots, server tools, and integrations to enhance your online community experience.
+Welcome to X-Ample Development, a leading UK-based organization specializing in Discord and FiveM Game development. We create innovative Discord bots, server tools, and integrations to enhance your online community experience.
 
 🚀 **About Us**  
 At X-Ample Development, we are passionate about building robust and feature-rich Discord bots. Our expert team leverages the latest technologies to deliver customized solutions that meet the unique needs of each client. Join us as we push the boundaries of what’s possible on Discord.
